@@ -1,0 +1,7 @@
+#Thu Nov 16 10:24:36 ICT 2023
+base.1=E\:\\LT_FPT\\MyGit\\ProjectFPT\\TTTN\\android\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes2.dex
+path.1=classes2.dex
+base.0=E\:\\LT_FPT\\MyGit\\ProjectFPT\\TTTN\\android\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex
